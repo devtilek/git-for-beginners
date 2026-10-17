@@ -63,6 +63,3 @@ git push
 - [Git Official Website](https://git-scm.com/)
 - [GitHub](https://github.com/)
 
----
-
-**Цель:** изучить основные команды Git и научиться использовать GitHub в своих проектах.
